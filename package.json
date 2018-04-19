@@ -1,0 +1,22 @@
+{
+  "name": "birthday-greetings-kata",
+  "version": "1.0.0",
+  "description": "Birthday greeting kata",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellenfc/birthday-greetings-kata.git"
+  },
+  "author": "Hellen Fiallos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellenfc/birthday-greetings-kata/issues"
+  },
+  "homepage": "https://github.com/hellenfc/birthday-greetings-kata#readme"
+}
