@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/hellenfc/birthday-greetings-kata/issues"
   },
-  "homepage": "https://github.com/hellenfc/birthday-greetings-kata#readme"
+  "homepage": "https://github.com/hellenfc/birthday-greetings-kata#readme",
+  "dependencies": {
+    "leap-year": "^2.0.1",
+    "nodemailer": "^4.6.4"
+  }
 }
